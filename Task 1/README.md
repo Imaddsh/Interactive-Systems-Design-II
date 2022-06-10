@@ -1,2 +1,2 @@
 Task 1:  
-Creating the concept Device
+Creating the first concept
